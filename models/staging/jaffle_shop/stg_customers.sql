@@ -5,4 +5,4 @@ select
 
 from raw.jaffle_shop.customers
 
-# Git testing
+-- Git testing
